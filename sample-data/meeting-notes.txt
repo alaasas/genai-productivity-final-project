@@ -1,0 +1,9 @@
+Meeting: Training Program Planning
+Date: 28 September 2026
+
+We discussed the upcoming AI productivity workshop.
+The team agreed to prepare the learner guide by Wednesday.
+Sara will review the slides.
+Ahmed will check the registration list.
+There is still a question about whether the post-test will be on Google Forms or Adhaki.
+The main risk is that some participants may not have access to Claude.
