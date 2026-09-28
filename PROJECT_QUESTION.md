@@ -18,11 +18,11 @@ The assistant should solve one practical workplace problem and turn unstructured
 
 1. Project name
 2. Problem statement
-3. Target users
+3. Target users: who will use this assistant or ( prompts )
 4. R-C-T-F prompt
-5. Sample input
-6. Sample output
-7. Safety checklist
+5. Sample input: two different inputs
+6. Sample output: one output per input
+7. Safety checklist: at least 3 checks per output.
 8. Reflection
 
 ---
